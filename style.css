@@ -1,0 +1,26 @@
+.info-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.categories img {
+    width: 155px;
+    height: 155px;
+}
+
+.categories {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+#subscribe {
+    border-radius: 10px;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
